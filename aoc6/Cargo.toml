@@ -1,0 +1,6 @@
+[package]
+name = "aoc6"
+version = "0.1.0"
+authors = ["Nathan van Doorn <nvd1234@gmail.com>"]
+
+[dependencies]
